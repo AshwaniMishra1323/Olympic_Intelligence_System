@@ -269,7 +269,7 @@ with athlete_tab:
 # ML PREDICTIONS
 # =========================
 
-with st.container():
+with ml_tab:
     st.header("Olympic Medal Predictions")
     st.write(
         "Explore historical trends and machine-learning estimates "
