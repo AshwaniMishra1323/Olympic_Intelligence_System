@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+data/athlete_events.csv
+data/athlete_events_cleaned.csv
